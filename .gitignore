@@ -1,0 +1,8 @@
+node_modules
+.env
+
+inpi-web/node_modules/*
+inpi-web/.env
+
+inpi-webscraping-js/node_modules/*
+inpi-webscraping-js/.env
